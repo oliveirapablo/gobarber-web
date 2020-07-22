@@ -48,4 +48,5 @@ const Input: React.FC<InputProps> = ({name, icon: Icon, ...rest}) => {
     );
 };
 
+
 export default Input;

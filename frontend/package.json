@@ -37,6 +37,7 @@
     "eslint-plugin-react": "^7.19.0",
     "eslint-plugin-react-hooks": "^2.5.0",
     "prettier": "^2.0.4"
+
   },
   "scripts": {
     "start": "react-scripts start",
@@ -59,4 +60,6 @@
       "last 1 safari version"
     ]
   }
+
 }
+

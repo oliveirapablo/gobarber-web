@@ -53,6 +53,7 @@
                 "tsx": "never"
             }
         ]
+
     },
     "settings": {
         "import/resolver": {
